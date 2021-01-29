@@ -64,7 +64,7 @@ Kocaeli'nin tüm mahalleleri
 SELECT * FROM il_ilce_mahalle.mahalleler WHERE il_id=52
 ```
 
-Kocaelinin tüm semtleri
+Kocaeli'nin tüm semtleri
 ```
 SELECT * FROM il_ilce_mahalle.semtler WHERE il_id=52
 ```
