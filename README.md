@@ -59,6 +59,10 @@ Darıca'nın tüm mahalleleri
 SELECT * FROM il_ilce_mahalle.mahalleler WHERE ilce_id= 614
 ```
 
+![alt text](https://github.com/ayhanbaris/il-ilce-semt-mahalle-veritabani/blob/main/daricanin-mahalleleri-ss.png?raw=true)
+
+
+
 Kocaeli'nin tüm mahalleleri
 ```
 SELECT * FROM il_ilce_mahalle.mahalleler WHERE il_id=52
@@ -69,4 +73,4 @@ Kocaeli'nin tüm semtleri
 SELECT * FROM il_ilce_mahalle.semtler WHERE il_id=52
 ```
 
-                 
+
