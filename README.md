@@ -46,7 +46,7 @@ create table mahalleler
 )
 ```
 
-Dikkat: iller plaka numarasına göre değil kendi id'sine göre girilmiştir. plaka numasasını aynıca kolon olarak ekleyebilirisiniz.
+Dikkat: İller plaka numarasına göre değil kendi id'sine göre girilmiştir. Plaka numarasını ayrıca kolon olarak ekleyebilirisiniz.
 
 # Örnek Sorgular
 Kocaeli'nin İlçeleri
