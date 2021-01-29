@@ -1,6 +1,11 @@
 # il, ilçe, semt, mahalle veritabanı
 Türkiye İl, İlçe, Semt, Mahalle Veritabanı MySQL formatında. Tablolar ve ve veri tek dosyadadır.
 
+İl: 81
+İlçe: 973
+Semt: 2469
+Mahalle: 73277
+
 ```
 create table iller
 (
